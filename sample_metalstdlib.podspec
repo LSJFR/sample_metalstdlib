@@ -17,8 +17,6 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'sample_metalstdlib/Classes/**/*'
 
-
   s.frameworks = 'Metal'
-  s.libraries = 'metal_stdlib'
 
 end
