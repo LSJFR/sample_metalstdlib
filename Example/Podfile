@@ -1,0 +1,6 @@
+use_frameworks!
+target 'sample_metalstdlib_Tests' do
+  pod 'sample_metalstdlib', :path => '../'
+  
+  
+end
